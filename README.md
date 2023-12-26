@@ -51,6 +51,8 @@ Dưới đây là danh sách các thành phần cần thiết để triển khai
 - [Cảm biến chuyển động](https://www.thegioiic.com/hc-sr501-cam-bien-chuyen-dong-pir)
 - [Cảm biến khí](https://www.thegioiic.com/mq-2-mach-cam-bien-khi-gas-lpg-propane-hydrogen)
 
+[Watch the Demo Video](https://vimeo.com/897850279)
+
 ## Đánh Giá Chi Tiết
 
 Dự án nhà thông minh sử dụng Internet of Things (IoT) của chúng tôi đã mang lại những kết quả tích cực và hiệu quả trong việc tự động hóa các chức năng trong ngôi nhà. Dưới đây là một số đánh giá chi tiết về các khía cạnh của dự án:
